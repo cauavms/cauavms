@@ -7,7 +7,7 @@
 - ## Estou aprendendo
 
 <div>
-_JAVA
+_JAVA <br>
 _LINUX
 _HTML
 _CSS
