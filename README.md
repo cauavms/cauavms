@@ -3,8 +3,7 @@
 - 🌱 Atualmente estou aprendendo programaçao
 - 💬 Pergunte-me sobre o que quizer que responderei de acordo com o meu conhecimento.
 - 📫 Como entrar em contato comigo:whatsapp
-- ⚡ Curiosidade:curto musica,series,filme e jogos
--->
+- ⚡ Curiosidades:curto musica,series,filmes e jogos
 - ## Estou aprendendo
 
 <div>
