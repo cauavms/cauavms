@@ -20,7 +20,7 @@ CSS <br>
   <a href="https://www.youtube.com/@cristiano" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 </div>
-<br>## informaçoes <br/>
+## informaçoes:
 <div></div>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
