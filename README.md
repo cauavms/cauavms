@@ -24,4 +24,4 @@ CSS <br>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://superti360.com.br/wp-content/uploads/2025/02/0-destaque-linguagens-de-programacao-2019.jpg"/>
-
+<img loading="lazy" height="180em" src="https://www.sarandi.pr.gov.br/web/media/zoo/images/Depositphotos_48648391_original_aa5b2c13bf60103bf2a94ff7d89b7988.png"/>
