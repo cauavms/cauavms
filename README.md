@@ -7,10 +7,10 @@
 - ## Estou aprendendo
 
 <div>
-_JAVA <br>
-_LINUX
-_HTML
-_CSS
+JAVA <br>
+LINUX <br>
+HTML <br>
+CSS <br>
 </div>
 
 ## Contatos:
