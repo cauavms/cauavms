@@ -23,5 +23,5 @@ CSS <br>
 </div>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src=""/>
+<img loading="lazy" height="180em" src="https://superti360.com.br/wp-content/uploads/2025/02/0-destaque-linguagens-de-programacao-2019.jpg"/>
 
