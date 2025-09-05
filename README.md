@@ -1,6 +1,10 @@
 # readme
 # me chamo Caua !
-- 🌱 Atualmente estou aprendendo programação
+- 🌱 Atualmente estou aprendendo programaçao
+- 💬 Pergunte-me sobre o que quizer que responderei de acordo com o meu conhecimento.
+- 📫 Como entrar em contato comigo:whatsapp
+- ⚡ Curiosidade:curto musica,series,filme e jogos
+-->
 - ## Estou aprendendo
 
 <div>
