@@ -1,6 +1,6 @@
 # readme
 Meu nome é Carlos, estudo programação, gosto de aprender HTML e CSS. Habilidades: HTML e CSS
-#  me chamo Caua !
+# Olá, me chamo Carlos !
 - 🌱 Atualmente estou aprendendo programação
 - ## Estou aprendendo
 
@@ -16,10 +16,10 @@ Meu nome é Carlos, estudo programação, gosto de aprender HTML e CSS. Habilida
 
 ## Contatos:
 <div>
-<a href="https://instagram.com/caua_vms" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/cduferreira2" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:carloseduardocaduq12@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/UR · Cristiano
-" target="_blank"><img loading="lazy" src=""></a>
+  <a href="https://www.twitch.tv/cadu3008" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/Cruzeiro Sports" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
