@@ -1,8 +1,8 @@
 
-# dados pesoais!
--  nome:Cauã Vinicius Moura de Souza
+# Dados Pesoais!
+-  Nome:Cauã Vinicius Moura de Souza
 -  email:cauavini2007@gmail.com
--  telefone:32547698
+-  Telefone:32547698
 -  Curiosidades:curto musica,series,filmes e jogos
 -  Ingles basico
 -  Estou cursando informatica basica E.E.Embaixador jose bonifacio
