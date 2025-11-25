@@ -6,6 +6,7 @@
 -  Curiosidades:curto musica,series,filmes e jogos
 -  Ingles basico
 -  Estou cursando informatica basica E.E.Embaixador jose bonifacio
+-  minha meta e conseguir um emprego desente que pague bem,futuramente pretendo me tornar um bombeiro militar
 - ## Estou aprendendo
 
 <div>
