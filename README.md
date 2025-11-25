@@ -1,9 +1,11 @@
 
-# me chamo Caua !
-- 🌱 Atualmente estou aprendendo programaçao
-- 💬 Pergunte-me sobre o que quizer que responderei de acordo com o meu conhecimento.
-- 📫 Como entrar em contato comigo:whatsapp
-- ⚡ Curiosidades:curto musica,series,filmes e jogos
+# dados pesoais!
+-  nome:Cauã Vinicius Moura de Souza
+-  email:cauavini2007@gmail.com
+-  telefone:32547698
+-  Curiosidades:curto musica,series,filmes e jogos
+-  Ingles basico
+-  Estou cursando informatica basica E.E.Embaixador jose bonifacio
 - ## Estou aprendendo
 
 <div>
